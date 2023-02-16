@@ -2,6 +2,8 @@
 
 # pip install openai
 # pip install pyTelegramBotAPI
+# telegram bot token
+# openAi api key
 
 import telebot
 import openai
